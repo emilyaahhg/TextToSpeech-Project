@@ -12,9 +12,9 @@ The computer-generated simulation of human speech is known as text-to-speech. It
     - To install Virtual Environment, `pip install virtualenv`
   
 # How to setup and run  
-  Step 1: Download and Extract the Project Folder Name Object Detector Project.
+  Step 1: Download and Extract the Project Folder Name text-to-speech Project.
 
-  Step 2: And then Open the Object Detector Project Folder in VsCode.
+  Step 2: And then Open the text-to-speechr Project Folder in VsCode.
 
   Step 3: Open git bash terminal.
 
@@ -43,4 +43,4 @@ python textTospeech.py
   * pyttsx3==2.90
 
 ###### Reference:
- [How to Convert Text to Speech in Python](hhttps://www.thepythoncode.com/article/convert-text-to-speech-in-python)
+ How to Convert Text to Speech: [How to Convert Text to Speech in Python](hhttps://www.thepythoncode.com/article/convert-text-to-speech-in-python)
